@@ -1,7 +1,8 @@
 <resources>
 	<string name="app_name">Random Generator</string>
 	<string name="add">Add</string>
-	<string name="desc">Long click to delete.</string>
+	<string name="desc">Help:\nLong click to delete.\nAny characters are allowed.</string>
 	<string name="gen">Generate!</string>
 	<string name="res">Result</string>
+	<string name="about">About</string>
 </resources>

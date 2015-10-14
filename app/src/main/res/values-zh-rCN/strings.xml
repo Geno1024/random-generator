@@ -2,7 +2,8 @@
 <resources>=
 	<string name="app_name">随机数发生器</string>
 	<string name="add">添加</string>
-	<string name="desc">长按删除。</string>
+	<string name="desc">帮助：\n长按删除。输入字符不限。</string>
 	<string name="gen">生成</string>
 	<string name="res">结果</string>
+	<string name="about">关于</string>
 </resources>
