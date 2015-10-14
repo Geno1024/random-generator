@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>=
+	<string name="app_name">随机数发生器</string>
+	<string name="add">添加</string>
+	<string name="desc">长按删除。</string>
+</resources>
